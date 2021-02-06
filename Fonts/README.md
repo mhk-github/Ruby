@@ -1,5 +1,7 @@
-Shows a listbox of X11 fonts with an example for a selected font
+# Fonts  
 
-Files:
-- <em>Fonts.rb</em>
-    - Ruby script
+Shows a listbox of X11 fonts with an example for a selected font.  
+
+**Files:**  
+- *Fonts.rb*  
+  - Ruby script  
