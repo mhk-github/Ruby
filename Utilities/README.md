@@ -1,5 +1,7 @@
-Command line utilities in Ruby
+# Utilities  
 
-Files:
-- <em>Hex.rb</em>
-    - Outputs in hexadecimal form the contents of a given file
+Command line utilities in Ruby.  
+
+**Files:**  
+- *Hex.rb*  
+  - Outputs in hexadecimal form the contents of a given file  
