@@ -1,5 +1,7 @@
-Produces an alert window that can flash in a given interval
+# Alerter  
 
-Files:
-- <em>Alerter.rb</em>
-    - Ruby script
+Produces an alert window that can flash in a given interval.  
+
+**Files:**  
+- *Alerter.rb*  
+  - Ruby script  
